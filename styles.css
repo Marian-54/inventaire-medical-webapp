@@ -1,0 +1,4 @@
+
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;}
+.card{cursor:pointer;transition:transform .2s;}
+.card:hover{transform:scale(1.02);}
